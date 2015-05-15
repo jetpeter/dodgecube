@@ -151,7 +151,6 @@ $(dodgecube).ready(function(){
 
     function postScore(name, score) {
         console.log("Name: " + name + ", score: " + score);
-        /*
         $.ajax({
             url: "http://dodgecube.com/ps.php",
             type: "POST",
@@ -165,7 +164,6 @@ $(dodgecube).ready(function(){
             alert(thrownError);
             }
         });
-        */
     }
 
     function addScores(newScores) {
