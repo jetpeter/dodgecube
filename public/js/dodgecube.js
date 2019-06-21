@@ -152,7 +152,7 @@ $(dodgecube).ready(function(){
     function postScore(name, score) {
         console.log("Name: " + name + ", score: " + score);
         $.ajax({
-            url: "http://dodgecube.com/ps.php",
+            url: "https://dodgecube.com/ps.php",
             type: "POST",
             data: { name: name, score: score },
             dataType: "json",

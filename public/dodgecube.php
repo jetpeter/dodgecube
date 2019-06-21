@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="css/dodgecube.css">
     <link rel="stylesheet" href="css/counter.css">
     <!-- Load Jquery -->
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script src="js/flipcounter.min.js"></script>
     <script src="js/Keys.js"></script>
     <script src="js/Ship.js"></script>
